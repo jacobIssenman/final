@@ -1,7 +1,7 @@
 {
   "shop" : [
     {
-      "item" :  "<button type='button'> <img src='t-shirt.jpeg' alt='t-shirt' width='50' height='50'></button>",
+      "item" :  "<button type='button' onclick='addItem()'> <img src='t-shirt.jpeg' alt='t-shirt' width='50' height='50'></button>",
       
       "value" : 40,
       "amount" : 1,
@@ -9,13 +9,13 @@
       
     },
     {
-      "item" : "<button type='button'> <img src='beanie.jpeg' alt='Beanie'  width='50' height='50'></button>",
+      "item" : "<button type='button' onclick='addItem()'> <img src='beanie.jpeg' alt='Beanie'  width='50' height='50'></button>",
       "value" : 20,
       "amount" : 1,
       "subtotal" : 20
     },
     {
-      "item" : "<button type='button'> <img src='hoodie.jpeg' alt='hoodie'  width='50' height='50'></button>",
+      "item" : "<button type='button' onclick='addItem()'> <img src='hoodie.jpeg' alt='hoodie'  width='50' height='50'></button>",
       "value" : 60,
       "amount" : 1,
       "subtotal" : 60
