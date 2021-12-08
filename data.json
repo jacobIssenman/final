@@ -1,20 +1,20 @@
 {
   "shop" : [
     {
-      "item" :  "<img src='t-shirt.jpeg' alt='t-shirt'>",
+      "item" :  "<img src='t-shirt.jpeg' alt='t-shirt' width=’25px’>",
       "value" : 40,
       "amount" : 1,
       "subtotal" : 40
       
     },
     {
-      "item" : "<img src='beanie.jpeg' alt='Beanie'>",
+      "item" : "<img src='beanie.jpeg' alt='Beanie'  width=’25px’>",
       "value" : 20,
       "amount" : 1,
       "subtotal" : 20
     },
     {
-      "item" :  "<img src='hoodie.jpeg' alt='hoodie'>",
+      "item" :  "<img src='hoodie.jpeg' alt='hoodie'  width=’25px’>",
       "value" : 60,
       "amount" : 1,
       "subtotal" : 60
