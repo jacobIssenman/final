@@ -1,0 +1,22 @@
+{
+    "lab" : "LAB 9",
+    "name" : "Jacob",
+    "games" : [
+      {
+        "name" : "call of duty",
+        "rating" : "M",
+        "series" : "yes"
+        
+      },
+      {
+        "name" : "halo",
+        "rating" : "M",
+        "series" : "yes"
+      },
+      {
+        "name" : "binding of issac",
+        "rating" : "M",
+        "series" : "no"
+      }
+    ]
+  }
