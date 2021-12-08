@@ -1,7 +1,7 @@
 {
   "shop" : [
     {
-      "item" :  "<img src='t-shirt.jpeg' alt='t-shirt' width='25' height='25'>",
+      "item" :  "<img src='t-shirt.jpeg' alt='t-shirt' width=25 height=25>",
       "value" : 40,
       "amount" : 1,
       "subtotal" : 40
