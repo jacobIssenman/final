@@ -1,22 +1,20 @@
 {
-    "lab" : "LAB 9",
-    "name" : "Jacob",
-    "games" : [
-      {
-        "name" : "call of duty",
-        "rating" : "M",
-        "series" : "yes"
-        
-      },
-      {
-        "name" : "halo",
-        "rating" : "M",
-        "series" : "yes"
-      },
-      {
-        "name" : "binding of issac",
-        "rating" : "M",
-        "series" : "no"
-      }
-    ]
-  }
+  "shop" : [
+    {
+      "value" : 40,
+      "amount" : 1,
+      "subtotal" : 40
+      
+    },
+    {
+      "value" : 20,
+      "amount" : 1,
+      "subtotal" : 20
+    },
+    {
+      "value" : 60,
+      "amount" : 1,
+      "subtotal" : 60
+    }
+  ]
+}
