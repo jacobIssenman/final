@@ -1,20 +1,20 @@
 {
   "shop" : [
     {
-      "item" : "t-shirt.jpeg",
+      "item" : 11,
       "value" : 40,
       "amount" : 1,
       "subtotal" : 40
       
     },
     {
-      "item" : "beanie.jpeg",
+      "item" : 12,
       "value" : 20,
       "amount" : 1,
       "subtotal" : 20
     },
     {
-      "item" : "hoodie.jpeg",
+      "item" : 13,
       "value" : 60,
       "amount" : 1,
       "subtotal" : 60
